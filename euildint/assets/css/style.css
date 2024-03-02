@@ -3183,15 +3183,17 @@ section.banner-section.style-three {
 =================================================================*/
 
 .breatcome-area {
-    background: url(../images/resource/call-do-2.jpg);
+    background: url(../images/resource/neww.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 154px 0;
+    padding: 100px 0;
+    background-position: top;
+    margin-top: 100px;
 }
 
 .breatcome-content {
     position: relative;
-    top: 52px;
+    /* top: 52px; */
 }
 
 .breatcome-title h1 {
@@ -5206,3 +5208,14 @@ span.flaticon-multiply i {
     margin-top: 30px;
 }
 
+
+@media(max-width:992px){
+    .breatcome-area {
+        
+        margin-top: 64px;
+    }
+}
+
+.bratcome-text{
+    display: none;
+}
