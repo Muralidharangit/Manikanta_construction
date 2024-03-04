@@ -314,8 +314,8 @@ Tags: architect, building company, construction, construction template, construc
 .slider-main-title h1 {
     font-size: 60px;
     color: #FFF;
-    font-weight: 700;
-    line-height: 58px;
+    font-weight: 600;
+    line-height: 50px;
 }
 
 .slider-discripton p {
@@ -2739,7 +2739,7 @@ section.banner-section.style-three {
     font-size: 16px;
     font-weight: 400;
     line-height: 29px;
-    margin: 26px 0 22px;
+    margin: 32px 0 22px;
 }
 
 .service-items-thumb-two {
